@@ -12,3 +12,8 @@ Open another terminal
 docker exec -it ollama bash
 ollama pull phi3
 ```
+Run the streamlit application
+```
+streamlit run app.py
+
+```
